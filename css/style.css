@@ -2782,7 +2782,8 @@ h6 {
 
 .project-list .listhead{
   list-style: square  ;
-  font-size: 1.1rem;
+  font-size: 1.3rem;
+  font-weight: bold;
 }
 
 .listitem-1{
